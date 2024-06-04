@@ -1,0 +1,14 @@
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\01_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\01_CSHARP.AssemblyInfoInputs.cache
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\01_CSHARP.AssemblyInfo.cs
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\01_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\MSI User\01_CSHARP\bin\Debug\net8.0\01_CSHARP.exe
+C:\Users\MSI User\01_CSHARP\bin\Debug\net8.0\01_CSHARP.deps.json
+C:\Users\MSI User\01_CSHARP\bin\Debug\net8.0\01_CSHARP.runtimeconfig.json
+C:\Users\MSI User\01_CSHARP\bin\Debug\net8.0\01_CSHARP.dll
+C:\Users\MSI User\01_CSHARP\bin\Debug\net8.0\01_CSHARP.pdb
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\01_CSHARP.dll
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\refint\01_CSHARP.dll
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\01_CSHARP.pdb
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\01_CSHARP.genruntimeconfig.cache
+C:\Users\MSI User\01_CSHARP\obj\Debug\net8.0\ref\01_CSHARP.dll
